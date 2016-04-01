@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ffe0b6b6-dec9-e44f-8c31-8c8b7b39f526++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ffe0b6b6-dec9-e44f-8c31-8c8b7b39f526++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ffe0b6b6-dec9-e44f-8c31-8c8b7b39f526++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6D78AC1-FCA0-4B03-BADA-FB6695FFBF2D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ffe0b6b6-dec9-e44f-8c31-8c8b7b39f526++505" : "%5BPROJECT%20X%5D%20-%20IT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "0225TestApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "- - - - DEVELOPMENT - - - - \/iOS | 0225TestApp\/0225TestApp\/0225TestApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/danish.com.ua:8443\/svn\/borys_education",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ffe0b6b6-dec9-e44f-8c31-8c8b7b39f526++505"
+    }
+  ]
+}
